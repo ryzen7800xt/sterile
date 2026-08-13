@@ -30,7 +30,7 @@ Sterile is an educational tool that visualizes the water filtration process in r
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ReverseDrop.git
+git clone https://github.com/ryzen7800xt/sterile.git
 cd ReverseDrop
 ```
 
@@ -102,16 +102,6 @@ python thing.py
 - **Gravity Effect**: Particles accelerate 1.5x when outside filter zones
 - **Reset**: Particles automatically reset at the bottom and recycle back to the top
 
-## Project Structure
-
-```
-ReverseDrop/
-├── src/
-│   ├── thing.py       # Main simulation file
-│   └── readme.md      # Documentation
-└── README.md          # Project overview
-```
-
 ## Educational Value
 
 Sterile is designed to help students and educators understand:
@@ -130,20 +120,9 @@ Sterile is designed to help students and educators understand:
 - **Particle System**: Dynamic, scalable from 10-500 particles
 - **Performance**: Optimized for smooth visualization
 
-## Future Enhancements
-
-Potential features for future versions:
-- Water flow rate adjustment
-- Temperature effects on filtration
-- Different particle types (sediment, bacteria, chemicals)
-- Statistics panel showing filtration efficiency
-- Export simulation data to CSV
-- Custom filter layer configurations
-- Before/after water quality meters
-
 ## Contributing
 
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
+This is for a science project, I have no intentions on contributing. Fork if you like, your choice.
 
 ## License
 
